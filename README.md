@@ -22,7 +22,7 @@ Additional description about the project and its features.
 ## Live Demo
 
 You can check the link below for the live demo.
-https://ewoskyx.github.io/portfolio_project/
+https://ewoskyx.github.io/rockfest/
 
 
 ## Getting Started
