@@ -91,7 +91,7 @@
 
 .hero {
   position: relative;
-  background-image: url('./img/hero-bg.jpg');
+  background-image: url('/img/hero-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
