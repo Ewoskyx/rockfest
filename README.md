@@ -5,9 +5,9 @@
 > Evren Ersoy  Neverland Rockfest 2021 project. A demo website for an imaginary 
 Rock festival!
 
-![screenshot mobile](./Nrf-1.PNG)<br />
-![screenshot mobile guide](./nrf-2.PNG)<br />
-![screenshot desktop](./nrf-3.PNG)<br />
+![screenshot desktop home](./nrf-1.PNG)<br />
+![screenshot mobile lineup](./nrf-2.PNG)<br />
+![screenshot desktop about](./nrf-3.PNG)<br />
 
 Additional description about the project and its features.
 
